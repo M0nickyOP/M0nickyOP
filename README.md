@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Monicky
 
-## I work with
+## My skills
 
 <p align="center"> 
   <a href="https://skillicons.dev">   

@@ -1,4 +1,4 @@
 # 👋 Hello! I'm Monicky
 ## I work with
 
- https://skillicons.dev/html,css,javascript,java,springboot
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,java,springboot)](https://skillicons.dev)

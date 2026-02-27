@@ -1,4 +1,4 @@
-<div class="display: flex; justify-content: center; align-items: center;"> # 👋 Hello! I'm Monicky
+# 👋 Hello! I'm Monicky
 ## I work with
 
- </div>
+ https://skillicons.dev/html,css,javascript,java,springboot
